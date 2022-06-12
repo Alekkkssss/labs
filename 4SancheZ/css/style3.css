@@ -1,0 +1,164 @@
+.navbar {
+position: absolute;
+width: 1600px;
+height: 150px;
+left: 0px;
+top: 0px;
+background: #7DCFFF; 
+border: 1px solid #7DCFFF;
+}
+
+
+h1{
+position: absolute;
+width: 403px;
+height: 66px;
+left: 120px;
+top: 40px;
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 33px;
+/* or 110% */
+
+display: flex;
+align-items: flex-end;
+
+color: #FFFFFF;
+}
+
+.btn{
+position: absolute;
+width: 100px;
+height: 25px;
+left: 0px;
+top: -65px;
+}
+
+h6{
+position: absolute;
+width: 100px;
+height: 21px;
+left: 0px;
+top: 0px;
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 21px;
+/* identical to box height, or 131% */
+
+
+color: #373A3C;
+}
+
+h2{
+position: absolute;
+width: 740px;
+height: 78px;
+left: 400px;
+top: 230px;
+
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 24px;
+/* or 96% */
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #373A3C;
+
+}
+
+.form-control{
+position: absolute;
+width: 540px;
+height: 38px;
+left: 500px;
+
+
+background: #FFFFFF;
+border: 1px solid #CCCCCC;
+border-radius: 4px;
+}
+
+.label{
+position: absolute;
+width: 101px;
+height: 24px;
+left: 500px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+display: flex;
+align-items: flex-end;
+
+color: #373A3C;
+
+}
+
+h5{
+position: absolute;
+width: 267px;
+height: 20px;
+left: 500px;
+top: 452px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+/* identical to box height, or 148% */
+
+display: flex;
+align-items: flex-end;
+
+color: #818A91;
+}
+
+.form-check-label{
+position: absolute;
+width: 101px;
+height: 24px;
+left: 720px;
+top: 690px;
+font-family: 'Abel';
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+display: flex;
+align-items: flex-end;
+
+color: #373A3C;
+}
+
+h3{
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 26px;
+text-align: center;
+text-shadow: 1px 1px 1px #000;
+
+position: absolute;
+width: 878px;
+height: 298px;
+left: 0px;
+top: 587px;
+
+color: #FFFFFF;
+
+}
+}
